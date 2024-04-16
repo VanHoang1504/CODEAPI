@@ -1,0 +1,28 @@
+{
+    "Sach": [
+        {
+            "id": "1",
+            "ma_sach_ph42448": "PH42448",
+            "tieu_de_ph42448":"sach ok",
+            "tac_gia_ph42448": "hoang",
+            "nam_xuat_ban_ph42448": "2004",
+            "so_trang_ph42448": 1000,
+            "the_loai_ph42448": "Viễn tưởng",
+            "so_luong_ph42448": 10000,
+            "hinh_anh_2024": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_3DxRxOJ_XRYNUuQM7Ck9o9UGRFcS-I-VaOZHkuIVRA&s",
+            "don_gia_2024": 20000
+        },
+        {
+            "id": "2",
+            "ma_sach_ph42448": "HoangPH42448",
+            "tieu_de_ph42448":"Sach ok",
+            "tac_gia_ph42448": "hoangph42448",
+            "nam_xuat_ban_ph42448": "2004",
+            "so_trang_ph42448": 1000,
+            "the_loai_ph42448": "Phiêu Lưu",
+            "so_luong_ph42448": 10000,
+            "hinh_anh_2024": "https://file3.qdnd.vn/data/images/0/2023/05/03/vuhuyen/khanhphan.jpg?dpi=150&quality=100&w=870",
+            "don_gia_2024": 20000
+        }
+    ]
+}
